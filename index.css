@@ -1,0 +1,30 @@
+.container{
+    width: auto;
+    height: 600px;
+    color: #ffffff;
+}
+.nav{
+    width: auto;
+    height: 30px;
+    background-color: #6d21ace1;
+}
+.logo{
+    height: 25px;
+}
+.body{
+    width: auto;
+    height: 540px;
+}
+.footer{
+    width: auto;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.numeroDiego{
+    font-size: 20px;
+}
+.logo_pequeno{
+    height: 25px;
+}
